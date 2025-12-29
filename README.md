@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Pavithra Murugan
 Software Developer (Fresher)
 <img align="right"  src="https://media1.tenor.com/m/kjXMU4dl8lAAAAAC/hello-world.gif">
-- 💻 Currently looking for entry-level opportunities.  
-- 🌱 Actively learning **Data Structures & Algorithms**.
+- 💻 Currently looking for entry-level jobs.  
+- 🌱 Actively learning Data Structures & Algorithms.
 - 🔭 I am motivated to grow as a developer and contribute to meaningful software solutions.
 
 
